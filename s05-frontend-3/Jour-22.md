@@ -4,12 +4,12 @@
 
 ### Javascript
 
-* [ ] Découvrir ce que sont les tests unitaires
-  * [ ] Utilité et fonctionnement
-  * [ ] Les différents types de tests (unitaires, d'intégration, fonctionnels)
-* [ ] Découvrir la stack de tests unitaires à base de Mocha et utilité de chaque élément : 
-  * [ ] Mocha JS
-    * [ ] Chai JS
+* [x] Découvrir ce que sont les tests unitaires
+  * [x] Utilité et fonctionnement
+  * [x] Les différents types de tests (unitaires, d'intégration, fonctionnels)
+* [x] Découvrir la stack de tests unitaires à base de Mocha et utilité de chaque élément : 
+  * [x] Mocha JS
+    * [x] Chai JS
     * [ ] Istambul JS / C8
     * [ ] Sinon JS (Optionnel pour l'instant)
-* [ ] Ecrire ses premiers tests unitaires
+* [x] Ecrire ses premiers tests unitaires
